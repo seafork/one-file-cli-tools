@@ -5,7 +5,7 @@
 # Encode and decode files as text using base85
 # Use --help for a basic rundown of usage
 #
-# Copyright (C) 2022 Ben Marsh <benmarsh201@gmail.com>
+# Copyright (C) 2022 Ben Marsh <seafork@tutamail.com>
 
 import argparse
 from base64 import b85decode, b85encode
